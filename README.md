@@ -1,20 +1,16 @@
 <h1>Hi, I'm Michael! <br/><a 
 
-<h2>⚙️ Engineering Personal Projects:</h2>
+<h2>⚙️ Engineering Projects:</h2>
 
 - <b>Breadboard CPU </b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Building a CPU from the ground up](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Digital Heart </b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
+  - [Device with a breathing LED effect](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
 - <b>Manim Research </b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
+  - [Behind the scenes of experimental calculus teaching](https://github.com/joshmadakor1/AD_PS)
+  - [Youtube Channel](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
 - <b>Neuro Flirt </b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
+  - [Re-Imagining the Online Dating Industry](https://github.com/michaelp3tta/NeuroHack)
 
 <h2>📷 Photography</h2>
 
