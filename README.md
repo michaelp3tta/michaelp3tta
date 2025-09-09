@@ -7,7 +7,7 @@
 - <b>Digital Heart </b>
   - [Device with a breathing LED effect](https://github.com/michaelp3tta/Digital-Heart)
 - <b>Manim Research </b>
-  - [Behind the scenes of experimental calculus teaching](https://github.com/joshmadakor1/AD_PS)
+  - [Behind the scenes of experimental calculus teaching](https://github.com/michaelp3tta/Manim-Research/blob/main/README.md)
   - [Youtube Channel](https://www.youtube.com/@michaelpetta9857)
 - <b>Neuro Flirt </b>
   - [Re-Imagining the Online Dating Industry](https://github.com/michaelp3tta/NeuroHack)
