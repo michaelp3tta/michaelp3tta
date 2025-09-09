@@ -3,12 +3,12 @@
 <h2>⚙️ Engineering Projects:</h2>
 
 - <b>Breadboard CPU </b>
-  - [Building a CPU from the ground up](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Building a CPU from the ground up](https://github.com/michaelp3tta/Breadboard-CPU)
 - <b>Digital Heart </b>
-  - [Device with a breathing LED effect](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964)
+  - [Device with a breathing LED effect](https://github.com/michaelp3tta/Digital-Heart)
 - <b>Manim Research </b>
   - [Behind the scenes of experimental calculus teaching](https://github.com/joshmadakor1/AD_PS)
-  - [Youtube Channel](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
+  - [Youtube Channel](https://www.youtube.com/@michaelpetta9857)
 - <b>Neuro Flirt </b>
   - [Re-Imagining the Online Dating Industry](https://github.com/michaelp3tta/NeuroHack)
   - [LinkedIn post](https://www.linkedin.com/feed/update/urn:li:activity:7170227623699079168/)
