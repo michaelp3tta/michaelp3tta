@@ -7,7 +7,7 @@
 - <b>Digital Heart </b>
   - [Device with a breathing LED effect](https://github.com/michaelp3tta/Digital-Heart)
 - <b>Line Following Car</b>
-  - [Click here for rundown](https://github.com/michaelp3tta/Digital-Heart)
+  - [Click here for rundown](https://github.com/michaelp3tta/Line-Following-Car)
 - <b>Manim Research </b>
   - [Behind the scenes of experimental calculus teaching](https://github.com/michaelp3tta/Manim-Research/blob/main/README.md)
   - [Youtube Channel](https://www.youtube.com/@michaelpetta9857)
