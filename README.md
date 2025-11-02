@@ -4,6 +4,7 @@
 
 - <b>Breadboard CPU </b>
   - [Building a CPU from the ground up](https://github.com/michaelp3tta/Breadboard-CPU)
+  - [October Update!](https://www.youtube.com/shorts/sP1Gd7y_Ugs)
 - <b>Analog Heart </b>
   - [Device with a breathing LED effect](https://github.com/michaelp3tta/Digital-Heart)
 - <b>Line Following Car</b>
