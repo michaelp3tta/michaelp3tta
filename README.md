@@ -12,9 +12,7 @@
 - <b>Manim Research </b>
   - [Behind the scenes of experimental calculus teaching](https://github.com/michaelp3tta/Manim-Research/blob/main/README.md)
   - [Youtube Channel](https://www.youtube.com/@michaelpetta9857)
-- <b>Neuro Flirt </b>
-  - [Re-Imagining the Online Dating Industry](https://github.com/michaelp3tta/NeuroHack)
-  - [LinkedIn post](https://www.linkedin.com/feed/update/urn:li:activity:7170227623699079168/)
+
 
 <h2> 🤳 Connect with me:</h2>
 
