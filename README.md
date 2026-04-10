@@ -2,7 +2,7 @@
 
 <h2>⚙️ Engineering Projects:</h2>
 
--<b>GPT Calculator </b>
+- <b>GPT Calculator </b>
   - [Project description and progress](https://github.com/michaelp3tta/GPT-Calculator)
 - <b>Breadboard CPU </b>
   - [Building a CPU from the ground up](https://github.com/michaelp3tta/Breadboard-CPU)
