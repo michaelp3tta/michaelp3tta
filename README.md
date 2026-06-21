@@ -16,6 +16,8 @@
   - [Youtube Channel](https://www.youtube.com/@michaelpetta9857)
 - <b>Capacitance Meter </b>
   - [Description](https://github.com/michaelp3tta/Capacitance-Meter)
+- <b>Long Distance Machine </b>
+  - [Description](https://github.com/michaelp3tta/Long-Distance-machine)
 
 
 <h2> 🤳 Connect with me:</h2>
