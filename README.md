@@ -15,7 +15,7 @@
   - [Project Description](https://github.com/michaelp3tta/Manim-Research/blob/main/README.md)
   - [Youtube Channel](https://www.youtube.com/@michaelpetta9857)
 - <b>Capacitance Meter </b>
-  - [In progress]
+  - [Description](https://github.com/michaelp3tta/Capacitance-Meter)
 
 
 <h2> 🤳 Connect with me:</h2>
