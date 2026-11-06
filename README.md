@@ -1,4 +1,4 @@
-<h1>Hi, I'm Michael! <br/><a 
+<h1>Hi, I'm Michael <br/><a 
 
 <h2>⚙️ Engineering Projects:</h2>
 
